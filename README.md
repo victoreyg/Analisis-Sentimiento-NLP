@@ -1,6 +1,6 @@
 # Análisis-Sentimiento-NLP 😊😡🕵️‍♂️💻
 
-Este repositorio tiene por objeto mostrar las fases de análisis exploratorio, preprocesado y modelado con NLP/aprendizaje del lenguaje natural para análisis del sentimiento en redes sociales. La estructura del repositorio es de lo más intuitutiva, un script por cada una de las fases.
+Este repositorio tiene por objeto **mostrar las fases de análisis exploratorio, preprocesado y modelado con NLP**/aprendizaje del lenguaje natural para análisis del sentimiento en redes sociales. La estructura del repositorio es de lo más intuitutiva, un script por cada una de las fases.
 
 El problema a resolver es la **predicción del sentimiento (positivo o negativo) de una review pública de Amazon sobre un videojuego a partir del lenguaje utilizado y la valoración (número de estrellas) de la propia review**.
 
